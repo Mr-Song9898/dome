@@ -1,0 +1,20 @@
+export default {
+    homeData:[],
+    goodsData:[],
+    login:[
+        {admin:123456},
+        {root:123456},
+    ],
+    onoff:false,
+    onoffreg:false,
+    bFoot:false,
+    bLoading:false,
+    buyCar:[
+        {"id":5,"title":"康师傅香辣牛肉面1","price":5,"num":10,"kg":"82.5g","src":"../assets/images/sp.jpg","number":2},
+        {"id":4,"title":"康师傅香辣牛肉面2","price":5,"num":10,"kg":"82.5g","src":"../assets/images/sp.jpg","number":1},
+        {"id":6,"title":"康师傅香辣牛肉面3","price":5,"num":10,"kg":"82.5g","src":"../assets/images/sp.jpg","number":1},
+        {"id":9,"title":"康师傅香辣牛肉面4","price":5,"num":10,"kg":"82.5g","src":"../assets/images/sp.jpg","number":1},
+    ],
+    sum:0,
+    num:0
+}

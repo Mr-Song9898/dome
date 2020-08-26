@@ -1,0 +1,9 @@
+[
+    {"id":1,"src":"./assets/images/gdsgf4.jpg","title":"百佳超级市场","num":1120,"price":220,"length":"100.7米"},
+    {"id":2,"src":"./assets/images/gdsgf4.jpg","title":"百佳超级市场","num":2320,"price":230,"length":"233.7米"},
+    {"id":3,"src":"./assets/images/gdsgf4.jpg","title":"百佳超级市场","num":1520,"price":200,"length":"12333.7米"},
+    {"id":4,"src":"./assets/images/gdsgf4.jpg","title":"百佳超级市场","num":1820,"price":190,"length":"23211.7米"},
+    {"id":5,"src":"./assets/images/gdsgf4.jpg","title":"百佳超级市场","num":920,"price":180,"length":"111.7米"},
+    {"id":6,"src":"./assets/images/gdsgf4.jpg","title":"百佳超级市场","num":120,"price":200,"length":"22.7米"},
+    {"id":7,"src":"./assets/images/gdsgf4.jpg","title":"百佳超级市场","num":6120,"price":50,"length":"5.7米"}
+]
